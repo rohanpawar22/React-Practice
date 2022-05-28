@@ -1,0 +1,9 @@
+*{
+margin: 0;
+}
+
+.partition{
+    display: flex;
+    justify-content: center;
+}
+

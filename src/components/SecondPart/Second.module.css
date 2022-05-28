@@ -1,0 +1,12 @@
+.bgsecond{
+    background-color: blue;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color: white;
+}
