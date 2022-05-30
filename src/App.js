@@ -1,9 +1,7 @@
-import First from './components/FirstPart/First';
-import Second from './components/SecondPart/Second';
+import First from "./components/FirstPart/First";
+import Second from "./components/SecondPart/Second";
 
-import classes from './App.module.css';
-
-
+import classes from "./App.module.css";
 
 function App() {
   return (
